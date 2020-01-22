@@ -3,6 +3,10 @@ import java.util.Arrays;
 public class HelloWorld {
 
     public static void main(String[] args) {
-        System.out.println("prakash");
+
+        for(int i=0;i<10;i++){
+            System.out.println("prakash rana" );
+        }
+
     }
 }
